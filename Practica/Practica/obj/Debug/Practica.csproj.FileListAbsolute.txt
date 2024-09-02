@@ -1,0 +1,7 @@
+C:\Users\ayala\OneDrive\Documents\Practica de progra\Practica\Practica\bin\Debug\Practica.exe.config
+C:\Users\ayala\OneDrive\Documents\Practica de progra\Practica\Practica\bin\Debug\Practica.exe
+C:\Users\ayala\OneDrive\Documents\Practica de progra\Practica\Practica\bin\Debug\Practica.pdb
+C:\Users\ayala\OneDrive\Documents\Practica de progra\Practica\Practica\obj\Debug\Practica.csproj.AssemblyReference.cache
+C:\Users\ayala\OneDrive\Documents\Practica de progra\Practica\Practica\obj\Debug\Practica.csproj.CoreCompileInputs.cache
+C:\Users\ayala\OneDrive\Documents\Practica de progra\Practica\Practica\obj\Debug\Practica.exe
+C:\Users\ayala\OneDrive\Documents\Practica de progra\Practica\Practica\obj\Debug\Practica.pdb
