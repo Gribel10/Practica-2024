@@ -10,14 +10,16 @@ namespace Practica
     {
         static void Main(string[] args)
         {
-            int a = 10 ;
-            int b = 15 ;
-            int c = 3 ;
+            Console.WriteLine("Escribe tu nombre ");
+            string nombre = Console.ReadLine();
 
-            int suma = a + b + c ;
+            Console.WriteLine("Escribe una ciudad ");
+            string ciudad = Console.ReadLine();
 
-            Console.WriteLine("La suma es " + suma);
+            Console.WriteLine("Hola " + nombre  + " bienvenido/a a " + ciudad);
+
             Console.ReadLine();
+
         }
     }
 }
