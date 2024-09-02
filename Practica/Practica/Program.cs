@@ -10,17 +10,31 @@ namespace Practica
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Escribe tu nombre");
-            string nombre = Console.ReadLine();
+            Console.WriteLine("Escribe un dia de la semana");
+            string dia = Console.ReadLine();
 
-            Console.WriteLine("Escribe tu edad");
-            string texto = Console.ReadLine();
+            switch (dia.ToLower())
+            {
 
-            int edad = Convert.ToInt32(texto);
+                case "lunes":
+                case "martes":
+                case "miercoles":
+                case "jueves":
+                case "viernes":
+                    Console.WriteLine("No es fin de semana");
+                    break;
+                case "sabado":
+                case "domingo":
+                    Console.WriteLine("Es fin de semana");
+                    break;
 
-            Console.WriteLine ("Te llamas " +nombre+" y tienes "+edad+ " años" );
+                default:
+                    Console.WriteLine("Ese dia no es correcto");
+                    break;
+            }
 
             Console.ReadLine();
+
 
         }
     }
